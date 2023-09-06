@@ -1,5 +1,18 @@
+/**
+ * @file Continuum.cpp
+ * @brief 
+ * @author Zhang Xu (tju_zhangxu@tju.edu.cn)
+ * @version 0.1
+ * @date 2023-09-06
+ * 
+ * Copyright (c) 2023 天津大学先进机构学及机器人学中心
+ * 
+ * REFERENCE
+ */
+
 #include <continuum_rb/Continuum.h>
 #include <iostream>
+
 
 Continuum::Continuum(int noDisks,double rbLength)
 {
